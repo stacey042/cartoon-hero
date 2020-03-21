@@ -24,6 +24,7 @@ h1, h2{
 header h1{
 	color: white;
 }
+/* header image */
 
 header img{
 	border-radius: 250px;
@@ -31,6 +32,7 @@ header img{
     height: 300px;
     border: 10px solid salmon;
 }
+/* main */
 
 main{
 	max-width: 800px;
@@ -38,9 +40,13 @@ main{
 	padding: 20px;
 }
 
+/* main image */
+
 main img{
 	max-width: 100%;
 }
+
+
 
 h2{
 	font-size: 35px;
